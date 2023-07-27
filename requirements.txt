@@ -1,0 +1,4 @@
+arrow
+termcolor
+simplejson
+requests

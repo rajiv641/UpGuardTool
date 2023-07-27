@@ -1,0 +1,8 @@
+# The configuration file contains three parameters, as in this example:
+# The keys can be retrieved from the Upguard site, in the main account page (/accounts/NNN)
+# The default name for the config file ugtool looks for is `.upguard`
+# Useful naming convention: rename this example file ../.upguard-1234567 where 1234567 is the account number
+
+upguard_server=1234567.configdrift.com
+upguard_api_key=NNNNNNNNNNNN
+upguard_secret_key=XXXXXXXXXXXXXXXXXXX
