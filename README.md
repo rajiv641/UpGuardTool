@@ -3,9 +3,9 @@
 ## INSTALLATION
 Clone the repo:
 ```
-$ git clone  https://github.rackspace.com/StrategicServices/upguardTools.git
+$ git clone  https://githubcom/rajiv641/upguardTools.git
 # OR
-$ git clone  git@github.rackspace.com:StrategicServices/upguardTools.git
+$ git clone  git@github.com:rajiv641/upguardTools.git
 ```
 
 Ensure pip can find the librack2 libraries:
