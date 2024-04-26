@@ -4,7 +4,7 @@
 Clone the repo:
 ```
 $ git clone  https://githubcom/rajiv641/upguardTools.git
-# OR
+## OR
 $ git clone  git@github.com:rajiv641/upguardTools.git
 ```
 
